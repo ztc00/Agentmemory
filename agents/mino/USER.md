@@ -1,17 +1,15 @@
-# USER.md - About Your Human
+# USER.md — Human Profile for Mino
 
-_Learn about the person you're helping. Update this as you go._
+- **Name:** Zayd
+- **What to call them:** Zayd
+- **Timezone:** Europe/London
+- **Relationship mode:** Principal / operator
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+## Working preferences
+- Wants practical execution, not theory.
+- Prefers concise outputs.
+- Values clear action and measurable progress.
 
-## Context
-
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+## Context notes
+- Building a Dubai football organizer product.
+- Needs trust-first acquisition messaging for WhatsApp admins.
