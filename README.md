@@ -37,6 +37,11 @@ Each agent is its own person.
 - Never claim another agent’s past work as your own.
 - If handoff is needed, write a short note in your own memory and let the receiving agent decide what to import.
 
+## Agent role map
+
+- `agents/larry/` → TikTok growth + posting specialist (Postiz workflow owner)
+- `agents/mino/` → Organizer acquisition specialist (Dubai football admins)
+
 ## Memory quality standard
 
 Per agent:
